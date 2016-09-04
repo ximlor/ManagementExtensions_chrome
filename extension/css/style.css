@@ -1,4 +1,12 @@
 body {
-  width: 150px;
+  width: 200px;
   height: 300px;
 }
+
+ul {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+

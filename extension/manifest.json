@@ -8,5 +8,10 @@
     "default_popup": "popup.html"
   },
 
+  "background": {
+    "scripts":["js/bg.js"],
+    "persisten":false
+  },
+
   "permissions": ["management"]
 }
