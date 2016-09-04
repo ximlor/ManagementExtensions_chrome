@@ -1,0 +1,12 @@
+{
+  "name": "扩展管理",
+  "version": "0.1",
+  "manifest_version": 2,
+
+  "browser_action": {
+    "default_icon": {},
+    "default_popup": "popup.html"
+  },
+
+  "permissions": ["management"]
+}
